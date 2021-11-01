@@ -12,7 +12,7 @@ This clone is built using React. The frontend is built using Next.js & Tailwind 
 
 ### Live Site
 
-https://faceboook-clone-v1.app
+https://faceboook-clone-v1.vercel.app
 
 ## Screenshots
 
